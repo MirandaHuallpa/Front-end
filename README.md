@@ -11,3 +11,10 @@ a partir del siguiente archivo entregado en formato .jpg.
 
 <img src="screenshots/final_front_2021.jpg" width=350px>
 
+<h4>Resolución: Fase 1 </h4>
+
+Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré agregando funcionalidades como:
+- Pulir aspectos del diseño web responsive.
+- Animaciones con Javascript.
+- Crear una base de datos, para que el usuario al ingresar sus datos se guarden correctamente.
+
