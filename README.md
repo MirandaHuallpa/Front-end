@@ -17,12 +17,15 @@ Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré ag
 - Pulir aspectos del diseño web responsive.
 - Mejor organización de los archivos.
 
+
+<div type>
 <h5 align="right">MOBILE</h5>
 <img align="right" src="screenshots/Screen-celular.jpg" width=130px>
 
 
 <h5>DESKTOP</h5>
-<img src="screenshots/screen1.png" width=230px>
-<img src="screenshots/screen2.png" width=230px>
-<img src="screenshots/screen3.png" width=230px>
-<img src="screenshots/screen4.png" width=230px>
+<img src="screenshots/screen1.png" width=233px>
+<img src="screenshots/screen2.png" width=233px>
+<img src="screenshots/screen3.png" width=233px>
+<img src="screenshots/screen4.png" width=233px>
+</div>
