@@ -20,8 +20,8 @@ Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré ag
 
 <h5>DESKTOP</h5>
 <div align="center">
-  <img src="screenshots/screen1.png" width=350px>
-  <img src="screenshots/screen2.png" width=350px>
-  <img src="screenshots/screen3.png" width=350px>
-  <img src="screenshots/screen4.png" width=350px>
+  <img src="screenshots/screen1.png" width=400px>
+  <img src="screenshots/screen2.png" width=400px>
+  <img src="screenshots/screen3.png" width=400px>
+  <img src="screenshots/screen4.png" width=400px>
 </div>
