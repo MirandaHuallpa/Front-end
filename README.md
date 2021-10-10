@@ -1,15 +1,13 @@
 # Front-end
 Desarrollador/a Full Stack Java - Programa Codo a Codo
 
-https://mirandahuallpa.github.io/Front-end/
 
-<h1> Trabajo Práctico Integrador Nº1 </h1>
+<h2> Trabajo Práctico Integrador Nº1 </h2>
 
 <h3><b>Consigna:</b></h3>
-Se entrega un archivo en formato .jpg y se pide crear desde 0 una réplica utilizando <b>HTML5, CSS3 y BOOTSTRAP.</b>
 
-formato.jpg entregado
+Se pide crear desde cero utilizando <b>HTML5, CSS3 y BOOTSTRAP</b> una página web responsive,
+a partir del siguiente archivo entregado en formato .jpg.
 
-IMAGEN
-
+<img src="screenshots/final_front_2021.jpg" width=350px>
 
