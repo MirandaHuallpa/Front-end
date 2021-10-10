@@ -15,16 +15,14 @@ a partir del siguiente archivo entregado en formato .jpg.
 
 Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré agregando funcionalidades como:
 - Pulir aspectos del diseño web responsive.
-- Animaciones con Javascript.
-- Crear una base de datos, para que el usuario al ingresar sus datos se guarden correctamente.
-
+- Mejor organización de los archivos.
 
 <h5 align="right"> 
  <img align="right" src="screenshots/Screen-celular.jpg" width=130px>MOBILE 
 </h5>
 
 <h5>DESKTOP</h5>
-<img src="screenshots/screen1.png" width=450px>
-<img src="screenshots/screen2.png" width=450px>
-<img src="screenshots/screen3.png" width=450px>
-<img src="screenshots/screen4.png" width=450px>
+<img src="screenshots/screen1.png" width=350px>
+<img src="screenshots/screen2.png" width=350px>
+<img src="screenshots/screen3.png" width=350px>
+<img src="screenshots/screen4.png" width=350px>
