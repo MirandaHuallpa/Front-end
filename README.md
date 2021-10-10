@@ -28,3 +28,8 @@ Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré ag
 <img src="screenshots/screen3.png" width=300px>
 <img src="screenshots/screen4.png" width=300px>
 
+<p float="left">
+  <img src="screenshots/screen1.png" width="100" />
+  <img src="screenshots/Screen-celular.jpg" width="100" /> 
+  <img src="screenshots/screen2.png" width="100" />
+</p>
