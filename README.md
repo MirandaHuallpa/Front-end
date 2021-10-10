@@ -19,11 +19,11 @@ Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré ag
 - Crear una base de datos, para que el usuario al ingresar sus datos se guarden correctamente.
 
 
-<h5 align="right">
-<img align="right" src="screenshots/Screen-celular.jpg" width=100px>MOBILE
-</h5>
+<h5 align="right"> MOBILE </h5>
+<img align="right" src="screenshots/Screen-celular.jpg" width=115px>
+ 
 <h5>DESKTOP</h5>
-<img src="screenshots/screen1.png" width=300px>
-<img src="screenshots/screen2.png" width=300px>
-<img src="screenshots/screen3.png" width=300px>
-<img src="screenshots/screen4.png" width=300px>
+<img src="screenshots/screen1.png" width=450px>
+<img src="screenshots/screen2.png" width=450px>
+<img src="screenshots/screen3.png" width=450px>
+<img src="screenshots/screen4.png" width=450px>
