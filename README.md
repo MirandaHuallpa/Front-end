@@ -19,11 +19,11 @@ Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré ag
 
 
 
-<h5 align="middle">MOBILE</h5>
+<h5 align="right">MOBILE</h5>
 <img align="right" src="screenshots/Screen-celular.jpg" width=130px>
 
 
-<h5 align="right">DESKTOP</h5>
+<h5>DESKTOP</h5>
 <img src="screenshots/screen1.png" width=230px>
 <img src="screenshots/screen2.png" width=230px>
 <img src="screenshots/screen3.png" width=230px>
