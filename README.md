@@ -15,11 +15,11 @@ a partir del siguiente archivo entregado en formato .jpg.
 Se realiza la maquetación y estructura de la página web con HTML y dándole el estilo pedido del formato .jpg con CSS y bootstrap.
 Incluyendo botones, imagénes y un formulario.
 
-<h5>Funcionalidades a seguir perfeccionando:</h5>
+<h4>Funcionalidades a seguir perfeccionando:</h4>
 - Pulir aspectos del diseño web responsive.
 - Mejorar organización de los archivos.
 - Agregar funcionalidad para el botón "Comprar Tickets".
-
+- 
 <h5 align="right">MOBILE</h5>
 <img align="right" src="screenshots/Screen-celular.jpg" width=130px>
 
