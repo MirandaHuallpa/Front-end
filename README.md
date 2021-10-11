@@ -12,17 +12,16 @@ a partir del siguiente archivo entregado en formato .jpg.
 <img src="screenshots/final_front_2021.jpg" width=350px>
 
 <h4>Resolución: Fase 1 </h4>
+Se realiza la maquetación y estructura de la página web con HTML y dándole el estilo pedido del formato .jpg con CSS y bootstrap.
+Incluyendo botones, imagénes y un formulario.
 
-Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré agregando funcionalidades como:
+Funcionalidades a seguir perfeccionando:
 - Pulir aspectos del diseño web responsive.
-- Mejor organización de los archivos.
-- Agregar funcionabilidad para el botón "Comprar Tickets".
-
-
+- Mejorar organización de los archivos.
+- Agregar funcionalidad para el botón "Comprar Tickets".
 
 <h5 align="right">MOBILE</h5>
 <img align="right" src="screenshots/Screen-celular.jpg" width=130px>
-
 
 <h5>DESKTOP</h5>
 <img src="screenshots/screen1.png" width=190px>
