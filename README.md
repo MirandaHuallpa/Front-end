@@ -13,7 +13,7 @@ a partir del siguiente archivo entregado en formato .jpg.
 
 <h4>Resolución: Fase 1 </h4>
 Se realiza la maquetación y estructura de la página web con HTML, dándole el estilo pedido del formato .jpg con CSS y bootstrap.
-Incluyendo botones, imagénes y un formulario.<br>
+Incluyendo botones, imagénes y un formulario.
 
 Funcionalidades a seguir perfeccionando:
 - Pulir aspectos del diseño web responsive.
