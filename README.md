@@ -16,6 +16,7 @@ a partir del siguiente archivo entregado en formato .jpg.
 Mediante sigamos avanzando en las unidades del Programa Codo a Codo, seguiré agregando funcionalidades como:
 - Pulir aspectos del diseño web responsive.
 - Mejor organización de los archivos.
+- Agregar funcionabilidad para el botón "Comprar Tickets".
 
 
 
